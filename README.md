@@ -1,4 +1,4 @@
-# ⚡ IoT Projects | Embedded Systems & Cyber Security
+# ⚡ IoT Projects | Embedded Systems & Security
 
 <p align="center">
   <img src="https://img.shields.io/badge/Domain-IoT%20%7C%20Cyber%20Security-00ff99?style=for-the-badge">
