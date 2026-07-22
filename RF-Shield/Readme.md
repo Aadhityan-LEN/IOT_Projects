@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![RF-Shield](docs/images/Demo_Time.jpg)
+![RF-Shield](docs/images/Demo_Time.png)
 
 **A secure RF-based chat application that enables real-time wireless communication without internet, cellular, or Wi-Fi infrastructure.**
 
