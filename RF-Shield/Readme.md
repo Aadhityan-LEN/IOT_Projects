@@ -1,4 +1,4 @@
-# RF-Shield — Secure Bidirectional Wireless Communication System for Real-Time Data Exchange
+# RF-Shield - Secure Bidirectional Wireless Communication System for Real-Time Data Exchange
 
 <div align="center">
 
